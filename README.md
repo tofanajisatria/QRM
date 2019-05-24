@@ -15,3 +15,4 @@ sebelumnya:
 menjadi :
 <td><?php echo $row->no_dokumen; ?></td>
 		                       
+Lampiran dokumenc.php dan dokumen.php adalah source code yang sudah dibenarkan
